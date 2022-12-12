@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["MapResponseBody","Apply a transformation to the response body."],["MapResponseBodyLayer","Apply a transformation to the response body."],["ResponseFuture","Response future for [`MapResponseBody`]."]]};

@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["axum"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.64.0/core/ops/bit/trait.BitXorAssign.html\" title=\"trait core::ops::bit::BitXorAssign\">BitXorAssign</a>&lt;<a class=\"struct\" href=\"axum/routing/struct.MethodFilter.html\" title=\"struct axum::routing::MethodFilter\">MethodFilter</a>&gt; for <a class=\"struct\" href=\"axum/routing/struct.MethodFilter.html\" title=\"struct axum::routing::MethodFilter\">MethodFilter</a>","synthetic":false,"types":["axum::routing::method_filter::MethodFilter"]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
