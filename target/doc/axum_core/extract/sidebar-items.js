@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["rejection","Rejection response types."]],"struct":[["DefaultBodyLimit","Layer for configuring the default request body limit."],["RequestParts","The type used with [`FromRequest`] to extract data from requests."]],"trait":[["FromRequest","Types that can be created from requests."]]};
